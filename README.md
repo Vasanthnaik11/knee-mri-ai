@@ -506,3 +506,5 @@ If you find this project interesting, consider giving the repository a ⭐ on Gi
 This project was developed for educational and research purposes using publicly available medical imaging resources and open-source machine-learning technologies.
 
 Special thanks to the organizations and researchers who make medical imaging datasets and open-source AI tools available for research and education.
+
+**Important:** I corrected the README to match what you've actually shown me, including your **145.3 MB `float16` MRI volume**, **ResNet18 + TF-IDF**, **12 abnormalities**, **0.7147 Macro AUC**, and your live Streamlit deployment.
